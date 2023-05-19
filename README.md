@@ -38,7 +38,9 @@ It connects to local mongodb client with pymongo.
 
 Initialization: npm i && npm start
 
-The homepage lets users enter their house details and gets their address, and shows the result of the algorithm.
+create an env file with google maps api key as in example
+
+The homepage lets users enter their house details and gets their address, and shows the result of the algorithm. Uses google maps api for map display.
 
 <hr>
 
