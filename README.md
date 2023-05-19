@@ -14,9 +14,13 @@ Regression:
 The Regression algorithm is used to estimate the user's house price by investigating the relationship between features (house details and address) and target (house price).
 
 It does so by first pre-processing the data:
+
 -encoding categorical values into numerical values
+
 -feature engineering additional features
+
 -feature scaling highly varying features
+
 -feature selection
 
 It then splits data to train and test, trains a GradientBoostingRegressor (tested to give most accurate results) with fine tuned best params.
