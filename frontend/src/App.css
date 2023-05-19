@@ -1,0 +1,56 @@
+.stripe1 {
+  background-image: linear-gradient(to right, white , #81c8eb, white);
+  height: 5px;
+  width: 68%;
+  margin-left: 16%;
+  position: relative;
+  bottom:10px;
+}
+
+.main {
+  margin-left:8%;
+  margin-right:8%;
+}
+
+.submit {
+  position: absolute;
+  bottom: -35px;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+button {
+  background-color: #4899c2;
+  margin:6px;
+  border-width: 0px;
+    color: white;
+    padding: 7px;
+    display: inline-block;
+    width: 210px;
+    font-weight: bold;
+    font-size: 115%;
+    border-radius: 2px;
+}
+
+button:hover{
+  cursor: pointer;
+  width:212px;
+  transition: 0.2s;
+}
+
+.err {
+  color:rgb(216, 14, 14);
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+
+.price{
+  position: absolute;
+  bottom: -55px;
+  width:100%;
+
+  padding-bottom: 15px;
+}

@@ -1,0 +1,34 @@
+.houseForm {
+    float:right;
+    text-align: left;
+    
+}
+
+.formLabel {
+    background-color: #4899c2;
+    color: white;
+    padding: 7px;
+    display: inline-block;
+    width: 110px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.formInput {
+    padding:7px;
+    width: 300px;
+}
+
+.textFields{
+    float: left;
+    margin-right: 55px;
+}
+
+.yearPicker{
+    float: right;
+    background-color: white;
+}
+
+.bottomYr{
+    margin-top: 200px;
+}
