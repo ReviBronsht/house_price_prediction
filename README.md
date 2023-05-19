@@ -49,3 +49,8 @@ The homepage lets users enter their house details and gets their address, and sh
 
 Original houses dataset downloaded from: [https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://www.kaggle.com/datasets/shree1992/housedata)
 and saved in mongodb compass as "housesDB"
+
+
+![image](https://github.com/ReviBronsht/house_price_prediction/assets/97298035/66b68901-7199-4c52-8cf0-eb197d5e802b)
+![image](https://github.com/ReviBronsht/house_price_prediction/assets/97298035/85568b79-1a8a-4124-8f7b-f3ab39141b70)
+![image](https://github.com/ReviBronsht/house_price_prediction/assets/97298035/c13eb27f-cc0f-40d7-9006-c6bd3a1debae)
